@@ -1,0 +1,5 @@
+- 👋  Hi, I’m @lacey-crenshaw
+- 👀  I’m interested in many things. It changes requently 
+- 🌱  I’m currently learning data science
+- 💞️  I’m looking to collaborate on women-led open source projects 
+- 📫  How to reach me lacey@laceycrenshaw.com
